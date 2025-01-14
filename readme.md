@@ -28,4 +28,5 @@ Deploy this app to use via the website or if you dont want to run it on your loc
 
 ## Side notes
 If video is not playing it could be because of origin problems. Add `crossorigin=""` attribute to video tag.
-PDFs only under 25MB
+
+For PDFs only under 25MB ones can be previewed.
