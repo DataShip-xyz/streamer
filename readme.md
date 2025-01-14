@@ -1,4 +1,4 @@
-# streamer
+# Streamer
 Setup streaming and downloading capabilities for your profile over at dataship.xyz
 # Audio, video and file streamer
 Used for downloading files from dataship.xyz or Streaming them live on the website for previewing your files.
@@ -16,6 +16,12 @@ Also update the URL in `.env` file. This would be the link to your website, IP, 
 ```
 LINKSTART=http://localhost/files
 ```
+
+# Deploy
+Deploy this app to use via the website or if you dont want to run it on your local machine to save time.
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DataShip-xyz/Streamer&branch=master&run_command=yarn%20run%20start:prod&name=streamer-koyeb)
+
+
 
 ## Side notes
 If video is not playing it could be because of origin problems. Add `crossorigin=""` attribute to video tag.
