@@ -50,8 +50,7 @@ When there click on 'Projects' in the panel on the left side
 Move down and click on your service 'your_service_name' (streamer)
 
 On the left panel click on 'Environment' and then click 'edit' on the right of Environment Variables.
-![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2019-58-48.png)
-![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2019-59-19.png)
+![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2019-58-48.png)![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2019-59-19.png)
 
 Move down and click on 'Add from .env'
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2019-59-41.png)
