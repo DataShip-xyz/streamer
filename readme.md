@@ -20,7 +20,13 @@ LINKSTART=http://localhost/files
 # Deploy
 Deploy this app to use via the website or if you dont want to run it on your local machine to save time.
 
+
+## Koyeb
 [![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/DataShip-xyz/Streamer&branch=master&run_command=yarn%20run%20start:prod&name=dataship-streamer)
+
+Setting up env variables.
+
+After deploying click on 'Settings'
 
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/d7416882c1ba4c9bd015bf13b1ae78d617e634e3/assets/Screenshot%20from%202025-01-14%2019-41-49.png)
 
