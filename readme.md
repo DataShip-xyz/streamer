@@ -61,7 +61,7 @@ Paste your .env lines in the below format (with your user token and url). Then c
 
 After setting your env variables move down and click on 'Save, rebuild and deploy'
 
-![alt text]([https://github.com/DataShip-xyz/streamer/blob/e1a2ab4bf2b976e3f4d6601d442c59ec983352ff/assets/Screenshot%20from%202025-01-14%2019-55-18.png](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2020-01-00.png))
+![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2020-01-00.png)
 
 
 ## Side notes
