@@ -12,11 +12,6 @@ You need to add your discord (preferably your temp account that won't ever be us
 USER_AUTH_TOKEN=UserToken
 ```
 
-Also update the URL in `.env` file. This would be the link to your website, IP, localhost.
-```
-LINKSTART=http://localhost/files
-```
-
 # Deploy
 Deploy this app to use via the website or if you dont want to run it on your local machine to save time.
 
@@ -35,7 +30,7 @@ Then scroll down and expand the option 'Environment variables'
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/d7416882c1ba4c9bd015bf13b1ae78d617e634e3/assets/Screenshot%20from%202025-01-14%2019-42-16.png)
 
 Click on 'Raw editor'
-and paste the lines in the below format (with your user token and url)
+and paste the lines in the below format (with your user token and change the link to 'https://start.link/files')
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/d7416882c1ba4c9bd015bf13b1ae78d617e634e3/assets/Screenshot%20from%202025-01-14%2019-42-49.png) 
 
 After setting your env variables click on 'Save and deploy'
@@ -61,7 +56,7 @@ On the left panel click on 'Environment' and then click 'edit' on the right of E
 Move down and click on 'Add from .env'
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2019-59-41.png)
 
-Paste your .env lines in the below format (with your user token and url). Then click on 'Add variables' to save addtions.
+Paste your .env lines in the below format (with your user token change the link to 'https://start.link/files'). Then click on 'Add variables' to save addtions.
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2020-00-34.png)
 
 After setting your env variables move down and click on 'Save, rebuild and deploy'
