@@ -68,7 +68,7 @@ After setting your env variables move down and click on 'Save, rebuild and deplo
 
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2020-01-00.png)
 
-Copy the following URL onto your user settings tab on dataship website and paste it under 'Streamer' (add 'https://' at the start of url as it is not copied by default at times).
+Copy the following URL onto your user settings tab on dataship website and paste it under 'Streamer'.
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/b077009fbe675aee6f7b6fbd8987b386ae47480f/assets/Screenshot%20from%202025-01-14%2020-08-40.png)
 
 
