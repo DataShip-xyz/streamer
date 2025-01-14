@@ -1,7 +1,7 @@
 {
   "name": "streamer",
   "version": "1.1",
-  "description": "",
+  "description": "Used for downloading files from dataship.xyz or Streaming them live on the website for previewing your files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
