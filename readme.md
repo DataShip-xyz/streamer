@@ -31,7 +31,14 @@ After deploying click on 'Settings'
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/d7416882c1ba4c9bd015bf13b1ae78d617e634e3/assets/Screenshot%20from%202025-01-14%2019-41-49.png)
 
 
+Then scroll down and expand the option 'Environment variables'
+![alt text](https://github.com/DataShip-xyz/streamer/blob/d7416882c1ba4c9bd015bf13b1ae78d617e634e3/assets/Screenshot%20from%202025-01-14%2019-42-16.png)
 
+Click on 'Raw editor'
+and paste the lines in the below format (with your user token and url)
+![alt text](https://github.com/DataShip-xyz/streamer/blob/d7416882c1ba4c9bd015bf13b1ae78d617e634e3/assets/Screenshot%20from%202025-01-14%2019-42-49.png) 
+
+## Render
 [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DataShip-xyz/Streamer)
 
 
