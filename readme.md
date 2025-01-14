@@ -42,6 +42,11 @@ After setting your env variables click on 'Save and deploy'
 
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/e1a2ab4bf2b976e3f4d6601d442c59ec983352ff/assets/Screenshot%20from%202025-01-14%2019-55-18.png)
 
+
+Copy the following URL onto your user settings tab on dataship website and paste it under 'Streamer' (add 'https://' at the start of url as it is not copied by default at times).
+![alt text](https://github.com/DataShip-xyz/streamer/blob/7a1ddcf0494ca0a428de3359c67416a64acebd46/assets/Screenshot%20from%202025-01-14%2020-08-36.png)
+
+
 ## Render
 [![Deploy on Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DataShip-xyz/Streamer)
 
@@ -62,6 +67,9 @@ Paste your .env lines in the below format (with your user token and url). Then c
 After setting your env variables move down and click on 'Save, rebuild and deploy'
 
 ![alt text](https://github.com/DataShip-xyz/streamer/blob/859775050966081203487910428075ddbc1167eb/assets/Screenshot%20from%202025-01-14%2020-01-00.png)
+
+Copy the following URL onto your user settings tab on dataship website and paste it under 'Streamer' (add 'https://' at the start of url as it is not copied by default at times).
+![alt text](https://github.com/DataShip-xyz/streamer/blob/b077009fbe675aee6f7b6fbd8987b386ae47480f/assets/Screenshot%20from%202025-01-14%2020-08-40.png)
 
 
 ## Side notes
